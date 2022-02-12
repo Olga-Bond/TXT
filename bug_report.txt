@@ -1,1 +1,7 @@
-
+Heading
+Summary: error 500
+Project: Yandex.ru
+Component: Email registration page
+Version: 22.1.4.627 beta
+Severity: Blocker
+Priority: High

@@ -6,6 +6,6 @@ Version: 22.1.4.627 beta
 Severity: Blocker
 Priority: High
 Steps to Reproduce
-Actual Result
-Expected Result
+Actual Result : page lock
+Expected Result: opening a page
 Additional Information

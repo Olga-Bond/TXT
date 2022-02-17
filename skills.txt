@@ -1,15 +1,15 @@
 1. SDLC, STLC.
-2. Клиент-серверная архитектура.
+2. Client-server architecture.
 3. HTTP 
 4. JSON, XML
-5. Тестирование API через Postman
+5. Testing the API via Postman
 6. Charles и Fiddler
 7. Dev Tools
 8. VPN
 9. XCode
 10. Android Studio
 11. ADB
-12. Командная строка Linux
+12. Linux Command Line
 13. SQL
 14. Postgres
 15. Redis
